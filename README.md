@@ -10,4 +10,4 @@ Library functions:
   * param3: timer channel of your choice.
 * Servo angle set: Servo_SetAngle(&param1, param2).
   * param1: Servo object name.
-  * Desired angle.
+  * param2 Desired angle.
