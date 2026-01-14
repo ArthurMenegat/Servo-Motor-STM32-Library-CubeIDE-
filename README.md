@@ -1,5 +1,5 @@
 # Servo-Motor-STM32-Library-CubeIDE-
-My first library for the STM32 microcontroller using the CubeIDE in C language. The library is for controlling any simple 180° micro servo motor. It may function in various models of STM32 microcontrollers. 
+My first library on STM32 microcontrollers using the CubeIDE in C language. The library is for controlling any simple 180° micro servo motor. 
 
 Library functions:
 
